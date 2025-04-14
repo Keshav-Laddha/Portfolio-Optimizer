@@ -1,5 +1,5 @@
 # Portfolio-Optimizer
-📊 AI-powered portfolio optimization toolkit featuring risk analysis, efficient frontier visualization, and personalized asset allocation based on actual holdings.
+
 **Professional-grade portfolio optimization with risk-aware asset allocation**  
 *Maximize returns while minimizing risk using Markowitz optimization and advanced risk metrics*
 
@@ -32,16 +32,12 @@
 
 ## 📈 Data Flow
 
-graph TD
-    A[Yahoo Finance API] --> B[Data Preprocessing]
-    B --> C[Portfolio Optimization]
-    C --> D[Risk Analytics]
-    D --> E[Interactive Visualizations]
+    [Yahoo Finance API] --> [Data Preprocessing] --> [Portfolio Optimization] --> D[Risk Analytics] --> E[Interactive Visualizations]
 
 ## 🛠️ Tech Stack
-• Core:             Python 3.8+
-• Optimization:     CVXPY, NumPy, SciPy
-• Data:             yfinance, pandas
-• Visualization:    Plotly, Matplotlib
-• UI:               Streamlit
+- **Core:**             Python 3.8+
+- **Optimization:**     CVXPY, NumPy, SciPy
+- **Data:**             yfinance, pandas
+- **Visualization:**    Plotly, Matplotlib
+- **UI:**               Streamlit
 
