@@ -3,7 +3,7 @@
  🔥**Professional-grade portfolio optimization with risk-aware asset allocation**  
 *Maximize returns while minimizing risk using Markowitz optimization and advanced risk metrics*
 
-![Demo Screenshot](Portfolio Optimizer & Risk Dashboard.pdf) 
+![Demo Screenshot](Portfolio_Optimizer_&_Risk_Dashboard.pdf) 
 
 ## 🌟 Key Features
 
