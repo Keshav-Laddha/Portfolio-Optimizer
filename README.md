@@ -1,6 +1,6 @@
 # Portfolio-Optimizer
 
-**Professional-grade portfolio optimization with risk-aware asset allocation**  
+ 🔥**Professional-grade portfolio optimization with risk-aware asset allocation**  
 *Maximize returns while minimizing risk using Markowitz optimization and advanced risk metrics*
 
 ![Demo Screenshot](/Docs/Screenshot_Analytics.jpeg) 
