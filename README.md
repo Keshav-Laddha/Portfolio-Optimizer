@@ -24,12 +24,12 @@
 
 ## 📊** Optimization Strategies**
 
-| Strategy          | Description           |
-|-------------------|-----------------------|
-|Equal Weight       | Fetch latest changes  |
-|Minimum Variance   | Install dependencies  |
-|Max Sharpe Ratio   | Fetch latest changes  |
-|Custom Weights     | Install dependencies  |
+| Strategy          | Description                         |
+|-------------------|-------------------------------------|
+|Equal Weight       | Balanced risk across all assets     |
+|Minimum Variance   | Lowest possible portfolio risk      |
+|Max Sharpe Ratio   | Optimal risk-adjusted returns       |
+|Custom Weights     | Based on your actual shareholdings  |
 
 ## 📈 Data Flow
 
