@@ -5,7 +5,6 @@
 
 ![Demo Screenshot](/Docs/Portfolio_Optimizer_&_Risk_Dashboard_1.jpg) 
 ![Demo Screenshot](/Docs/Portfolio_Optimizer_&_Risk_Dashboard_2.jpg) 
-![Demo Screenshot](/Docs/Portfolio_Optimizer_&_Risk_Dashboard_3.jpg) 
 
 ## 🌟 Key Features
 
