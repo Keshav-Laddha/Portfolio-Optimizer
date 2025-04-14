@@ -3,6 +3,8 @@
 **Professional-grade portfolio optimization with risk-aware asset allocation**  
 *Maximize returns while minimizing risk using Markowitz optimization and advanced risk metrics*
 
+![Demo Screenshot](/Docs/Screenshot_Analytics.jpeg) 
+
 ## 🌟 Key Features
 
 - **Smart Weight Allocation** - Input actual shareholdings or let AI optimize
@@ -13,18 +15,20 @@
 
 ## 🚀 Quick Start
 
-```bash
-git clone https://github.com/your-username/Portfolio-Optimizer-Pro.git
-cd Portfolio-Optimizer-Pro
-pip install -r requirements.txt
-streamlit run app.py
+    ```bash
+    git clone https://github.com/your-username/Portfolio-Optimizer-Pro.git
+    cd Portfolio-Optimizer-Pro
+    pip install -r requirements.txt
+    streamlit run app.py
 
 ## 📊** Optimization Strategies**
-Strategy	Description
-Equal Weight	Balanced risk across all assets
-Minimum Variance	Lowest possible portfolio risk
-Max Sharpe Ratio	Optimal risk-adjusted returns
-Custom Weights	Based on your actual shareholdings
+
+| Strategy          | Description           |
+|-------------------|-----------------------|
+|Equal Weight       | Fetch latest changes  |
+|Minimum Variance   | Install dependencies  |
+|Max Sharpe Ratio   | Fetch latest changes  |
+|Custom Weights     | Install dependencies  |
 
 ## 📈 Data Flow
 
@@ -35,9 +39,9 @@ graph TD
     D --> E[Interactive Visualizations]
 
 ## 🛠️ Tech Stack
-• Core: Python 3.8+
-• Optimization: CVXPY, NumPy, SciPy
-• Data: yfinance, pandas
-• Visualization: Plotly, Matplotlib
-• UI: Streamlit
+• Core:             Python 3.8+
+• Optimization:     CVXPY, NumPy, SciPy
+• Data:             yfinance, pandas
+• Visualization:    Plotly, Matplotlib
+• UI:               Streamlit
 
