@@ -33,7 +33,7 @@
 
 ## 📈 Data Flow
 
-    [Yahoo Finance API] --> [Data Preprocessing] --> [Portfolio Optimization] --> D[Risk Analytics] --> E[Interactive Visualizations]
+    [Yahoo Finance API] --> [Data Preprocessing] --> [Portfolio Optimization] --> [Risk Analytics] --> [Interactive Visualizations]
 
 ## 🛠️ Tech Stack
 - **Core:**             Python 3.8+
